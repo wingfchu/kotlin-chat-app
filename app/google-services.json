@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916254476416",
+    "project_id": "chat-application-5962a",
+    "storage_bucket": "chat-application-5962a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916254476416:android:a78d9cafe77322b90afe65",
+        "android_client_info": {
+          "package_name": "com.wendychu.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916254476416-7tgt6e6r0aqr3vihq4eomeh176uh6o0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnE60W7bcE_4eIGx6WvI9x5xIi4FExo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916254476416-7tgt6e6r0aqr3vihq4eomeh176uh6o0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
